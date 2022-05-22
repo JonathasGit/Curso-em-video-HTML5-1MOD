@@ -2,4 +2,7 @@
 
 <p>Vou mostrar aqui todas aulas que fiz, deixar todos código para galera aqui.</p>
 
-Sites que vamos usar para consultar : Do próprio profesor.
+Sites que vamos usar para consultar : Do próprio professor.
+
+Repositório do Github: 
+Site do Professor.
